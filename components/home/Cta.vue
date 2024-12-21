@@ -5,6 +5,5 @@
     <p class="mt-4 text-lg text-slate-400 md:text-xl">
       Can't click links without talk tuah
     </p>
-    </div>
   </div>
 </template>
