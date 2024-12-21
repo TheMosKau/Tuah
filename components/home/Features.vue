@@ -15,22 +15,10 @@ const features = ref([
     icon: AreaChart,
   },
   {
-    title: 'Serverless',
-    description:
-          'Deploy without the need for traditional servers.',
-    icon: ServerOff,
-  },
-  {
     title: 'Customizable Slug',
     description:
           'Support for personalized slugs and case sensitivity.',
     icon: Paintbrush,
-  },
-  {
-    title: 'AI Slug',
-    description:
-          'Leverage AI to generate slugs.',
-    icon: Sparkles,
   },
   {
     title: 'Link Expiration',
