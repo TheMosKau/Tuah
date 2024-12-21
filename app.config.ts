@@ -6,8 +6,8 @@ export default defineAppConfig({
   telegram: '',
   mastodon: '',
   blog: '',
-  description: 'a link shortener based on Sink.',
-  image: 'https://sink.cool/banner.png',
+  description: 'A link shortener based on sink.',
+  image: 'https://tuah.link/embed.png',
   previewTTL: 24 * 3600, // 24h
   slugRegex: /^[a-z0-9]+(?:-[a-z0-9]+)*$/i,
   reserveSlug: [
