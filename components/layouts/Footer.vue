@@ -14,11 +14,11 @@ const { title, email, telegram, blog, twitter, mastodon, github } = useAppConfig
       >{{ title }}</a>
       <a
         class="mt-4 text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l sm:border-gray-200 sm:mt-0"
-        href="https://html.zone"
+        href="https://tuah.link"
         target="_blank"
-        title="HTML.ZONE"
+        title="TheMosKau"
       >
-        &copy; {{ new Date().getFullYear() }} Products of HTML.ZONE
+        Products of TheMosKau
       </a>
       <span
         class="inline-flex justify-center mt-4 space-x-5 sm:ml-auto sm:mt-0 sm:justify-start"
